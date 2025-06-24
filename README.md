@@ -5,15 +5,6 @@ Zero Lifestyle is a modern and responsive e-commerce platform built using **Reac
 
 ---
 
-## 🌐 Live Website
-
-Frontend (GitHub Pages / Vercel):  
-➡️ [https://yourusername.github.io/zero-lifestyle](https://yourusername.github.io/zero-lifestyle)
-
-Backend (Render/Railway):  
-➡️ *Coming Soon*
-
----
 
 ## 🚀 Tech Stack
 
@@ -22,15 +13,6 @@ Backend (Render/Railway):
 - Tailwind CSS  
 - React Router  
 - Lucide Icons
-
-**Backend**:  
-- Node.js  
-- Express.js  
-- MySQL / MongoDB  
-- JWT Authentication  
-- dotenv for env variables
-
----
 
 ## 📁 Folder Structure
 
