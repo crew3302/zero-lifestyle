@@ -14,5 +14,3 @@ Zero Lifestyle is a modern and responsive e-commerce platform built using **Reac
 - React Router  
 - Lucide Icons
 
-## 📁 Folder Structure
-
