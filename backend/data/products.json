@@ -1,0 +1,54 @@
+[
+    {
+      "id": "hs1",
+      "name": "Zero Revolt Pro",
+      "description": "Gaming TWS with ultra-low latency and extended battery life for immersive sessions.",
+      "image_url": "https://www.eshopg.com/cdn/shop/files/Wireless-Earbuds-Bluetooth-5.3-Headphones-Bass-Stereo-EarBud-Emart-158884360.jpg?v=1750393671&width=1125",
+      "category": "Earbuds",
+      "sub_category": "Hot",
+      "original_price": 7999,
+      "sale_price": 4899,
+      "rating": 4.8,
+      "badge": "HOT SELLING",
+      "colors": ["black", "white", "#FF8C00"]
+    },
+    {
+      "id": "hs2",
+      "name": "Zero Luna Smartwatch",
+      "description": "Elegant AMOLED display with advanced health tracking features and customizable watch faces.",
+      "image_url": "https://zerolifestyle.co/cdn/shop/files/02_14d4c7f7-c21c-49be-8519-5f340b58ebd5.webp?v=1734007033&width=400",
+      "category": "Smartwatches",
+      "sub_category": "Hot",
+      "original_price": 15999,
+      "sale_price": 9899,
+      "rating": 4.9,
+      "badge": "BEST SELLER",
+      "colors": ["#FFC0CB", "#000000", "#C0C0C0"]
+    },
+    {
+      "id": "jl1",
+      "name": "Zero Aura X Headphones",
+      "description": "Premium Active Noise Cancellation for an immersive audio experience, crafted for comfort.",
+      "image_url": "https://zerolifestyle.co/cdn/shop/files/aurax.webp?v=1708343167&width=360",
+      "category": "Headphones",
+      "sub_category": "New",
+      "original_price": 12999,
+      "sale_price": 8999,
+      "rating": 4.9,
+      "badge": "JUST LAUNCHED",
+      "colors": ["#2F4F4F", "#A0522D", "#D2B48C"]
+    },
+    {
+      "id": "latest3",
+      "name": "Zero Series X Titan",
+      "description": "The ultimate smartwatch with a robust titanium build, enhanced GPS, and long-lasting battery.",
+      "image_url": "https://images.pexels.com/photos/277390/pexels-photo-277390.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "Smartwatches",
+      "sub_category": "Latest",
+      "original_price": 32000,
+      "sale_price": 29900,
+      "rating": 4.9,
+      "badge": "PREMIUM EDITION",
+      "colors": ["#848482", "#4A4A4A"]
+    }
+  ]
